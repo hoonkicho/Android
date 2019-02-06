@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="sp_category">
+        <item>식비</item>
+        <item>교통비</item>
+        <item>문화생활</item>
+    </string-array>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">calendar_project</string>
+    <string name="textPrompt">City</string>
+    <string name="editTextCity">Enter City Name</string>
+    <string name="buttonTextWeather">chart</string>
+    <string name="blankText" />
+    <string name="editTextHint">Enter City Name</string>
+</resources>
